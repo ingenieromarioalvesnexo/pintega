@@ -472,3 +472,14 @@ body{font-family:Arial,Helvetica,sans-serif;color:var(--ink)}h1,h2,h3{font-famil
 .direct-mail{color:#fff}
 .service-strip b{color:#bb461b}
 .feature-arrow{color:#245b7b}
+
+/* Nuevas galerías y corrección editorial de referencias. */
+.gallery-slide .reference-image{display:block;position:relative;width:100%;container-type:inline-size}
+.gallery-slide .reference-image img{display:block;width:100%;height:auto;max-height:none}
+.reference-correction{position:absolute;top:0;left:0;width:42%;height:14%;padding-left:8.2%;text-align:left;background:#fff;color:#242222;font-family:Arial,Helvetica,sans-serif;font-weight:700;font-size:3.75cqw;line-height:1.3}
+.source-discrepancy{padding:10px 12px;border-left:2px solid #bb461b;background:#fbf6f2;font-size:.73rem;line-height:1.55}
+.hero-copy{min-width:0}.hero-inner{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr)}
+@media(max-width:680px){.hero-inner{grid-template-columns:minmax(0,1fr)}}
+
+.lightbox-stage .reference-image{display:block;position:relative;width:100%;container-type:inline-size}
+.lightbox-stage .reference-image img{display:block;width:100%;height:auto;max-height:none}
