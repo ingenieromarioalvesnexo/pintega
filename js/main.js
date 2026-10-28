@@ -34,7 +34,11 @@
   document.querySelectorAll('[data-jump]').forEach(function(btn){
     btn.addEventListener('click', function(){
       var target = document.getElementById(btn.getAttribute('data-jump'));
-      if (target) target.scrollIntoView({behavior:'smooth', block:'start'});
+      if (target) {
+        document.querySelectorAll('[data-jump]').forEach(function(item){item.removeAttribute('aria-current');});
+        btn.setAttribute('aria-current','location');
+        target.scrollIntoView({behavior:'smooth', block:'start'});
+      }
     });
   });
 

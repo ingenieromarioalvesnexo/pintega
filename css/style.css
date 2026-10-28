@@ -483,3 +483,8 @@ body{font-family:Arial,Helvetica,sans-serif;color:var(--ink)}h1,h2,h3{font-famil
 
 .lightbox-stage .reference-image{display:block;position:relative;width:100%;container-type:inline-size}
 .lightbox-stage .reference-image img{display:block;width:100%;height:auto;max-height:none}
+
+.nav-pills .pill:last-child{margin-left:0;border-bottom-color:transparent;font-weight:400;color:#536572}
+.nav-pills .pill[aria-current="location"]{border-bottom-color:#bb461b;color:#173c54;font-weight:600}
+.nav-pills .pill:hover{border-bottom-color:#bb461b;color:#173c54}
+.cat-count{color:#345468}
