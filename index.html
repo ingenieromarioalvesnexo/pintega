@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&amp;family=IBM+Plex+Sans:wght@400;500;600&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap">
 <link rel="stylesheet" href="css/style.css">
-<html><head><link rel="stylesheet" href="css/chat.css"></head></html></head>
+<link rel="stylesheet" href="css/chat.css"></head>
 <body>
 
 <header class="site">
@@ -2086,7 +2086,7 @@
 
 <script src="js/main.js"></script>
 <div class="pintega-chat" id="pintega-chat">
-<button type="button" class="chat-launcher" id="chat-launcher" aria-controls="chat-panel" aria-expanded="false">Consultar el catálogo <span aria-hidden="true">▤</span></button>
+<button type="button" class="chat-launcher" id="chat-launcher" aria-controls="chat-panel" aria-expanded="false"><span class="chat-ai-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewbox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 5V2"></path><circle cx="16" cy="2" r="1" fill="currentColor" stroke="none"></circle><rect x="6" y="8" width="20" height="18" rx="5"></rect><path d="M3 14v6m26-6v6M11 26v3m10-3v3"></path><circle cx="12" cy="15" r="1.4" fill="currentColor" stroke="none"></circle><circle cx="20" cy="15" r="1.4" fill="currentColor" stroke="none"></circle><path d="M12 21h8"></path></svg></span><span class="chat-launcher-label">Pregúntame</span></button>
 <section class="chat-panel" id="chat-panel" role="dialog" aria-label="Asistente del catálogo de Pintega" hidden>
 <header class="chat-header"><div><strong>Asistente de Pintega</strong><small id="chat-mode">Consulta las fichas del catálogo</small></div><button type="button" id="chat-close" aria-label="Cerrar asistente">×</button></header>
 <div class="chat-messages" id="chat-messages" role="log" aria-live="polite" aria-relevant="additions"><div class="chat-message chat-message-assistant">Hola. Puedo ayudarte a consultar y comparar las máquinas del catálogo. Para precios, disponibilidad y compatibilidad, te pondré en contacto con Pintega.</div></div>
@@ -2094,5 +2094,5 @@
 <form id="chat-form" class="chat-form"><label class="chat-sr-only" for="chat-input">Tu consulta sobre el catálogo</label><textarea id="chat-input" maxlength="500" rows="2" placeholder="¿Qué máquina buscas?" required></textarea><button type="submit" id="chat-send">Consultar</button></form>
 <p class="chat-status" id="chat-status" role="status"></p>
 <footer class="chat-footer">Respuestas orientativas. Confirma los datos con Pintega. No incluyas datos personales en el chat. <button type="button" id="chat-clear">Borrar conversación</button></footer>
-</section></div><html><head><script type="module" src="js/chat.js"></script></head></html></body>
+</section></div><script type="module" src="js/chat.js"></script></body>
 </html>
