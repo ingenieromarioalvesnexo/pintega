@@ -1,0 +1,3076 @@
+[
+  {
+    "id": "pt480",
+    "name": "PT480",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "863 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀100mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀108-⌀135mm"
+      },
+      {
+        "label": "Peso",
+        "value": "35Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "PT480"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-1.9 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "5.5m³/min / 9m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#pt480",
+    "pdf": null,
+    "image": "assets/perforacion/sp480.png"
+  },
+  {
+    "id": "pt580",
+    "name": "PT580",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "970 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀126mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀136-⌀155mm"
+      },
+      {
+        "label": "Peso",
+        "value": "64Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "PT580"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.2-2.2 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "7.5m³/min / 12m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#pt580",
+    "pdf": null,
+    "image": "assets/perforacion/sp580.png"
+  },
+  {
+    "id": "pt680",
+    "name": "PT680",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1131 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀148mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀158-⌀203mm"
+      },
+      {
+        "label": "Peso",
+        "value": "100.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API3 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "PT680"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.2-2.7 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "16m³/min / 23m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#pt680",
+    "pdf": null,
+    "image": "assets/perforacion/sp680.png"
+  },
+  {
+    "id": "pt780",
+    "name": "PT780",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1195 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀165mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀178-⌀216mm"
+      },
+      {
+        "label": "Peso",
+        "value": "140Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API3 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "PT780"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.5-2.8 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "21m³/min / 28m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#pt780",
+    "pdf": null,
+    "image": "assets/perforacion/sp780.png"
+  },
+  {
+    "id": "pt882",
+    "name": "PT882",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1264 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀185mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀198-⌀254mm"
+      },
+      {
+        "label": "Peso",
+        "value": "181Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API4 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "PT882"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.5-3.3 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "25m³/min / 34m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#pt882",
+    "pdf": null,
+    "image": "assets/perforacion/sp882.png"
+  },
+  {
+    "id": "pt1080",
+    "name": "PT1080",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1410 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀225mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀254-⌀311mm"
+      },
+      {
+        "label": "Peso",
+        "value": "289Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API5 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "PT1080"
+      }
+    ],
+    "description": "",
+    "url": "#pt1080",
+    "pdf": null,
+    "image": "assets/perforacion/sp1080.png"
+  },
+  {
+    "id": "pt1280",
+    "name": "PT1280",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1630 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀275mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀295-⌀400mm"
+      },
+      {
+        "label": "Peso",
+        "value": "530Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API6 5/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "PT1280"
+      }
+    ],
+    "description": "",
+    "url": "#pt1280",
+    "pdf": null,
+    "image": "assets/perforacion/sp1280.png"
+  },
+  {
+    "id": "pt1480",
+    "name": "PT1480",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1744 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀332mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀350-⌀550mm"
+      },
+      {
+        "label": "Peso",
+        "value": "796Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API7 5/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "PT1480"
+      }
+    ],
+    "description": "",
+    "url": "#pt1480",
+    "pdf": null,
+    "image": "assets/perforacion/sp1480.png"
+  },
+  {
+    "id": "pt1880",
+    "name": "PT1880",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1957 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀445mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀500-⌀680mm"
+      },
+      {
+        "label": "Peso",
+        "value": "1582Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API8 5/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "PT1880"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.5-3.3 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "20-40 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "73m³/min / 97m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#pt1880",
+    "pdf": null,
+    "image": "assets/perforacion/sp1880.png"
+  },
+  {
+    "id": "nd25a",
+    "name": "ND25A",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "872 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀71mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀76-⌀90mm"
+      },
+      {
+        "label": "Peso",
+        "value": "16Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "T48X10X1.5"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "ND25A"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-1.7 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-50 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "3m³/min / 4.5m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#nd25a",
+    "pdf": null,
+    "image": "assets/perforacion/nd25a.png"
+  },
+  {
+    "id": "nd35a",
+    "name": "ND35A",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "886 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀82mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀90-⌀115mm"
+      },
+      {
+        "label": "Peso",
+        "value": "24.2Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "ND35A"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-1.7 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-50 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "4m³/min / 6.5m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#nd35a",
+    "pdf": null,
+    "image": "assets/perforacion/nd35a.png"
+  },
+  {
+    "id": "nd45a",
+    "name": "ND45A",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "986 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀99mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀110-⌀135mm"
+      },
+      {
+        "label": "Peso",
+        "value": "40.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "ND45A"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.2 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "5m³/min / 9m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#nd45a",
+    "pdf": null,
+    "image": "assets/perforacion/nd45a.png"
+  },
+  {
+    "id": "nd55a",
+    "name": "ND55A",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1122 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀126mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀136-⌀155mm"
+      },
+      {
+        "label": "Peso",
+        "value": "70Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "ND55A"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.5 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "7m³/min / 13m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#nd55a",
+    "pdf": null,
+    "image": "assets/perforacion/nd55a.png"
+  },
+  {
+    "id": "nd55s",
+    "name": "ND55S",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1119 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀117mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀127-⌀145mm"
+      },
+      {
+        "label": "Peso",
+        "value": "62Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "ND55S"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.5 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "6m³/min / 12m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#nd55s",
+    "pdf": null,
+    "image": "assets/perforacion/nd55s.png"
+  },
+  {
+    "id": "nd65a",
+    "name": "ND65A",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1210 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀148mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀158-⌀203mm"
+      },
+      {
+        "label": "Peso",
+        "value": "106Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API3 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "ND65A"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.2-2.5 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "16m³/min / 23m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#nd65a",
+    "pdf": null,
+    "image": "assets/perforacion/nd65a.png"
+  },
+  {
+    "id": "nd75a",
+    "name": "ND75A",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1225 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀165mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀178-⌀216mm"
+      },
+      {
+        "label": "Peso",
+        "value": "143.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API3 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "ND75A"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.5-2.8 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "21m³/min / 28m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#nd75a",
+    "pdf": null,
+    "image": "assets/perforacion/nd75a.png"
+  },
+  {
+    "id": "nd85a",
+    "name": "ND85A",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1354 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀185mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀198-⌀254mm"
+      },
+      {
+        "label": "Peso",
+        "value": "193Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API4 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "ND85A"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.5-3.3 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "25m³/min / 34m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#nd85a",
+    "pdf": null,
+    "image": "assets/perforacion/nd85a.png"
+  },
+  {
+    "id": "n100a",
+    "name": "N100A",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1475 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀225mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀254-⌀311mm"
+      },
+      {
+        "label": "Peso",
+        "value": "299.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API5 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "NUMA100A"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.5-3.3 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "36m³/min / 58m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#n100a",
+    "pdf": null,
+    "image": "assets/perforacion/n100a.png"
+  },
+  {
+    "id": "n125a",
+    "name": "N125A",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1785 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀305mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀330-⌀400mm"
+      },
+      {
+        "label": "Peso",
+        "value": "698.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API6 5/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "NUMA125A"
+      }
+    ],
+    "description": "",
+    "url": "#n125a",
+    "pdf": null,
+    "image": "assets/perforacion/n125a.png"
+  },
+  {
+    "id": "nd140a",
+    "name": "ND140A",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1861 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀332mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀350-⌀550mm"
+      },
+      {
+        "label": "Peso",
+        "value": "851Kg"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "ND330"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.5-3.3 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-55 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "53m³/min / 78m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#nd140a",
+    "pdf": null,
+    "image": "assets/perforacion/nd140a.png"
+  },
+  {
+    "id": "ql40a",
+    "name": "QL40A",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1057 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀99mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀110-⌀135mm"
+      },
+      {
+        "label": "Peso",
+        "value": "42.7Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "QL40A"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.2 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "5m³/min / 9m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#ql40a",
+    "pdf": null,
+    "image": "assets/perforacion/ql40a.png"
+  },
+  {
+    "id": "ql50a",
+    "name": "QL50A",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1102 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀126mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀136-⌀155mm"
+      },
+      {
+        "label": "Peso",
+        "value": "68.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "QL50A"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.5 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "7m³/min / 13m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#ql50a",
+    "pdf": null,
+    "image": "assets/perforacion/ql50a.png"
+  },
+  {
+    "id": "ql680",
+    "name": "QL680",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1155 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀148mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀158-⌀203mm"
+      },
+      {
+        "label": "Peso",
+        "value": "102Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API3 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "QL60A"
+      }
+    ],
+    "description": "",
+    "url": "#ql680",
+    "pdf": null,
+    "image": "assets/perforacion/ql680.png"
+  },
+  {
+    "id": "ql880",
+    "name": "QL880",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1335 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀185mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀198-⌀254mm"
+      },
+      {
+        "label": "Peso",
+        "value": "188Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API4 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "QL80A"
+      }
+    ],
+    "description": "",
+    "url": "#ql880",
+    "pdf": null,
+    "image": "assets/perforacion/ql880.png"
+  },
+  {
+    "id": "dhd3-5",
+    "name": "DHD3.5",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "928 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀82mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀90-⌀110mm"
+      },
+      {
+        "label": "Peso",
+        "value": "25Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "DHD3.5"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-1.7 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "4.5m³/min / 8.5m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#dhd3-5",
+    "pdf": null,
+    "image": "assets/perforacion/dhd3-5.png"
+  },
+  {
+    "id": "dhd340",
+    "name": "DHD340",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1032 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀99mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀110-⌀135mm"
+      },
+      {
+        "label": "Peso",
+        "value": "43Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "DHD340"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.2 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "5.5m³/min / 10m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#dhd340",
+    "pdf": null,
+    "image": "assets/perforacion/dhd340.png"
+  },
+  {
+    "id": "dhd350",
+    "name": "DHD350",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1209 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀125mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀135-⌀155mm"
+      },
+      {
+        "label": "Peso",
+        "value": "78.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "DHD350"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.5 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "9m³/min / 15m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#dhd350",
+    "pdf": null,
+    "image": "assets/perforacion/dhd350.png"
+  },
+  {
+    "id": "dhd360",
+    "name": "DHD360",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1063 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀142mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀150-⌀190mm"
+      },
+      {
+        "label": "Peso",
+        "value": "100.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API3 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "DHD360"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.5 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "9m³/min / 20m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#dhd360",
+    "pdf": null,
+    "image": "assets/perforacion/dhd360.png"
+  },
+  {
+    "id": "dhd380",
+    "name": "DHD380",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1492 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀180mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀195-⌀254mm"
+      },
+      {
+        "label": "Peso",
+        "value": "190Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API4 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "DHD380"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.5-3.3 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "26m³/min / 34m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#dhd380",
+    "pdf": null,
+    "image": "assets/perforacion/dhd380.png"
+  },
+  {
+    "id": "numa100",
+    "name": "NUMA100",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1432 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀225mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀254-⌀311mm"
+      },
+      {
+        "label": "Peso",
+        "value": "283Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API5 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "NUMA100"
+      }
+    ],
+    "description": "",
+    "url": "#numa100",
+    "pdf": null,
+    "image": "assets/perforacion/numa100.png"
+  },
+  {
+    "id": "dhd1120",
+    "name": "DHD1120",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1845 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀275mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀295-⌀400mm"
+      },
+      {
+        "label": "Peso",
+        "value": "598Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API6 5/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "DHD1120"
+      }
+    ],
+    "description": "",
+    "url": "#dhd1120",
+    "pdf": null,
+    "image": "assets/perforacion/dhd1120.png"
+  },
+  {
+    "id": "n125",
+    "name": "N125",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1785 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀305mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀330-⌀400mm"
+      },
+      {
+        "label": "Peso",
+        "value": "698Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API6 5/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "NUMA125"
+      }
+    ],
+    "description": "",
+    "url": "#n125",
+    "pdf": null,
+    "image": "assets/perforacion/n125.png"
+  },
+  {
+    "id": "yc410",
+    "name": "YC410",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "2162 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀410mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀295-⌀400mm"
+      },
+      {
+        "label": "Peso",
+        "value": "1460Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API8 5/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "N180"
+      }
+    ],
+    "description": "",
+    "url": "#yc410",
+    "pdf": null,
+    "image": "assets/perforacion/yc410.png"
+  },
+  {
+    "id": "ql40",
+    "name": "QL40",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1102 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀99mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀110-⌀135mm"
+      },
+      {
+        "label": "Peso",
+        "value": "43.7Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "QL40"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.2 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "5.5m³/min / 10m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#ql40",
+    "pdf": null,
+    "image": "assets/perforacion/ql40.png"
+  },
+  {
+    "id": "ql50",
+    "name": "QL50",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1154 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀126mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀135-⌀155mm"
+      },
+      {
+        "label": "Peso",
+        "value": "73.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "QL50"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.5 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "9m³/min / 15m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#ql50",
+    "pdf": null,
+    "image": "assets/perforacion/ql50.png"
+  },
+  {
+    "id": "ql60",
+    "name": "QL60",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1211 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀148mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀158-⌀190mm"
+      },
+      {
+        "label": "Peso",
+        "value": "105Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API3 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "QL60"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.5 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "9m³/min / 20m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#ql60",
+    "pdf": null,
+    "image": "assets/perforacion/ql60.png"
+  },
+  {
+    "id": "ql80",
+    "name": "QL80",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1471 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀180mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀195-⌀254mm"
+      },
+      {
+        "label": "Peso",
+        "value": "187Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API4 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "QL80"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.5-3.3 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "26m³/min / 34m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#ql80",
+    "pdf": null,
+    "image": "assets/perforacion/ql80.png"
+  },
+  {
+    "id": "m30",
+    "name": "M30",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "931 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀82mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀90-⌀115mm"
+      },
+      {
+        "label": "Peso",
+        "value": "23Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "M30"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-1.7 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-50 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "4m³/min / 6.5m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#m30",
+    "pdf": null,
+    "image": "assets/perforacion/m30.png"
+  },
+  {
+    "id": "m40",
+    "name": "M40",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1004 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀99mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀110-⌀135mm"
+      },
+      {
+        "label": "Peso",
+        "value": "40.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "M40"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.2 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "5m³/min / 9m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#m40",
+    "pdf": null,
+    "image": "assets/perforacion/m40.png"
+  },
+  {
+    "id": "nm5c",
+    "name": "NM5C",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1080 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀114mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀125-⌀146mm"
+      },
+      {
+        "label": "Peso",
+        "value": "62Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "NM5C"
+      }
+    ],
+    "description": "",
+    "url": "#nm5c",
+    "pdf": null,
+    "image": "assets/perforacion/nm5c.png"
+  },
+  {
+    "id": "m50",
+    "name": "M50",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1122 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀126mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀136-⌀155mm"
+      },
+      {
+        "label": "Peso",
+        "value": "70.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "M50"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.5 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "7m³/min / 13m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#m50",
+    "pdf": null,
+    "image": "assets/perforacion/m50.png"
+  },
+  {
+    "id": "m60",
+    "name": "M60",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1129 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀144mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀152-⌀203mm"
+      },
+      {
+        "label": "Peso",
+        "value": "91.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API3 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "M60"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.8 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "8m³/min / 17m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#m60",
+    "pdf": null,
+    "image": "assets/perforacion/m60.png"
+  },
+  {
+    "id": "m80",
+    "name": "M80",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1333 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀180mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀195-⌀245mm"
+      },
+      {
+        "label": "Peso",
+        "value": "160.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API4 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "M80"
+      }
+    ],
+    "description": "",
+    "url": "#m80",
+    "pdf": null,
+    "image": "assets/perforacion/m80.png"
+  },
+  {
+    "id": "sd4",
+    "name": "SD4",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1082 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀99mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀110-⌀135mm"
+      },
+      {
+        "label": "Peso",
+        "value": "43Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "SD4"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.2 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "5.5m³/min / 10m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#sd4",
+    "pdf": null,
+    "image": "assets/perforacion/sd4.png"
+  },
+  {
+    "id": "sd5",
+    "name": "SD5",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1178 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀125mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀135-⌀155mm"
+      },
+      {
+        "label": "Peso",
+        "value": "73.6Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "SD5"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.5 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "9m³/min / 15m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#sd5",
+    "pdf": null,
+    "image": "assets/perforacion/sd5.png"
+  },
+  {
+    "id": "sd6",
+    "name": "SD6",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1277 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀142mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀150-⌀190mm"
+      },
+      {
+        "label": "Peso",
+        "value": "99Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API3 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "SD6"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.5 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "9m³/min / 20m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#sd6",
+    "pdf": null,
+    "image": "assets/perforacion/sd6.png"
+  },
+  {
+    "id": "sd8",
+    "name": "SD8",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1463 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀180mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀195-⌀254mm"
+      },
+      {
+        "label": "Peso",
+        "value": "194Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API4 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "SD8"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.5-3.3 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "26m³/min / 34m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#sd8",
+    "pdf": null,
+    "image": "assets/perforacion/sd8.png"
+  },
+  {
+    "id": "sd10",
+    "name": "SD10",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1413 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀225mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀254-⌀311mm"
+      },
+      {
+        "label": "Peso",
+        "value": "273Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API5 1/2\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "SD10"
+      }
+    ],
+    "description": "",
+    "url": "#sd10",
+    "pdf": null,
+    "image": "assets/perforacion/sd10.png"
+  },
+  {
+    "id": "sd12",
+    "name": "SD12",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1825 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀275mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀295-⌀400mm"
+      },
+      {
+        "label": "Peso",
+        "value": "589Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API6 5/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "SD12"
+      }
+    ],
+    "description": "",
+    "url": "#sd12",
+    "pdf": null,
+    "image": "assets/perforacion/sd12.png"
+  },
+  {
+    "id": "br1",
+    "name": "BR1",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "698 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀56mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀76-⌀90mm"
+      },
+      {
+        "label": "Peso",
+        "value": "8.8Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "RD40 BOX"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "BR1"
+      }
+    ],
+    "description": "",
+    "url": "#br1",
+    "pdf": null,
+    "image": "assets/perforacion/br1.png"
+  },
+  {
+    "id": "br2",
+    "name": "BR2",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "810 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀64mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀70-⌀90mm"
+      },
+      {
+        "label": "Peso",
+        "value": "12.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "RD50 BOX"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "BR2"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "0.8-1.5 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-50 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "3m³/min / 4.5m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#br2",
+    "pdf": null,
+    "image": "assets/perforacion/br2.png"
+  },
+  {
+    "id": "br3",
+    "name": "BR3",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "871 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀82mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀90-⌀115mm"
+      },
+      {
+        "label": "Peso",
+        "value": "21Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "BR3"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-1.7 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-50 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "4m³/min / 7m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#br3",
+    "pdf": null,
+    "image": "assets/perforacion/br3.png"
+  },
+  {
+    "id": "n3",
+    "name": "N3",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "771.5 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀80mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀87-⌀110mm"
+      },
+      {
+        "label": "Peso",
+        "value": "20.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "T48X10"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "N3"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "0.8-1.7 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "5m³/min / 7m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#n3",
+    "pdf": null,
+    "image": "assets/perforacion/n3.png"
+  },
+  {
+    "id": "n4",
+    "name": "N4",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "856 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀100mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀108-⌀135mm"
+      },
+      {
+        "label": "Peso",
+        "value": "35Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "N4"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "0.8-1.9 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "5.5m³/min / 9m³/min"
+      }
+    ],
+    "description": "",
+    "url": "#n4",
+    "pdf": null,
+    "image": "assets/perforacion/n4.png"
+  },
+  {
+    "id": "sw530",
+    "name": "SW530",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "2438 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀530mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀600-⌀800mm"
+      },
+      {
+        "label": "Peso",
+        "value": "2660.5Kg"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "SW530"
+      }
+    ],
+    "description": "",
+    "url": "#sw530",
+    "pdf": null,
+    "image": "assets/perforacion/sw530.png"
+  },
+  {
+    "id": "sw640",
+    "name": "SW640",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "2390 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀640mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀720-⌀1000mm"
+      },
+      {
+        "label": "Peso",
+        "value": "3795.5Kg"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "SW640"
+      }
+    ],
+    "description": "",
+    "url": "#sw640",
+    "pdf": null,
+    "image": "assets/perforacion/sw640.png"
+  },
+  {
+    "id": "nd180",
+    "name": "ND180",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "2162 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀410mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀295-⌀400mm"
+      },
+      {
+        "label": "Peso",
+        "value": "1460Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API8 5/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "ND180"
+      }
+    ],
+    "description": "",
+    "url": "#nd180",
+    "pdf": null,
+    "image": "assets/perforacion/nd180.png"
+  },
+  {
+    "id": "td40",
+    "name": "TD40",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "1067 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀99mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀110-⌀135mm"
+      },
+      {
+        "label": "Peso",
+        "value": "43.7Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "TD40"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-2.2 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-60 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "5.5m3/min / 10m3/min"
+      }
+    ],
+    "description": "",
+    "url": "#td40",
+    "pdf": null,
+    "image": null
+  },
+  {
+    "id": "cop32",
+    "name": "COP32",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "886 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀82mm"
+      },
+      {
+        "label": "Rango de perforación",
+        "value": "⌀90-⌀115mm"
+      },
+      {
+        "label": "Peso",
+        "value": "24.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Vástago de broca",
+        "value": "COP32"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "1.0-1.7 Mpa"
+      },
+      {
+        "label": "Velocidad de giro",
+        "value": "30-50 r/min"
+      },
+      {
+        "label": "Consumo de aire",
+        "value": "4m3/min / 6.5m3/min"
+      }
+    ],
+    "description": "",
+    "url": "#cop32",
+    "pdf": null,
+    "image": null
+  },
+  {
+    "id": "bh140",
+    "name": "BH140",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "420 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀155mm"
+      },
+      {
+        "label": "Peso",
+        "value": "34Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API2 3/8\"REG"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "0.8-1.7 Mpa"
+      }
+    ],
+    "description": "",
+    "url": "#bh140",
+    "pdf": null,
+    "image": "assets/perforacion/bh140.png"
+  },
+  {
+    "id": "bh190",
+    "name": "BH190",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "560 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀220mm"
+      },
+      {
+        "label": "Peso",
+        "value": "84.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API3 1/2\"REG"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "0.8-3.0 Mpa"
+      }
+    ],
+    "description": "",
+    "url": "#bh190",
+    "pdf": null,
+    "image": "assets/perforacion/bh190.png"
+  },
+  {
+    "id": "bh170",
+    "name": "BH170",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "606 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀190mm"
+      },
+      {
+        "label": "Peso",
+        "value": "64.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API3 1/2\"REG"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "0.8-2.5 Mpa"
+      }
+    ],
+    "description": "",
+    "url": "#bh170",
+    "pdf": null,
+    "image": "assets/perforacion/bh170.png"
+  },
+  {
+    "id": "bh240",
+    "name": "BH240",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [
+      {
+        "label": "Longitud (sin broca)",
+        "value": "600 mm"
+      },
+      {
+        "label": "Diámetro exterior",
+        "value": "⌀240mm"
+      },
+      {
+        "label": "Peso",
+        "value": "123.5Kg"
+      },
+      {
+        "label": "Rosca de conexión",
+        "value": "API4 1/2\"REG"
+      },
+      {
+        "label": "Presión de trabajo",
+        "value": "0.8-3.0 Mpa"
+      }
+    ],
+    "description": "",
+    "url": "#bh240",
+    "pdf": null,
+    "image": "assets/perforacion/bh240.png"
+  },
+  {
+    "id": "brocas-dth-fondo-de-pozo",
+    "name": "Brocas DTH (fondo de pozo)",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [],
+    "description": "Gama completa de brocas de fondo de pozo para martillo DTH, con diseños cara cóncava, convexa, plana y de doble escalón según dureza y abrasividad de la roca. Disponibles en todos los calibres compatibles con los martillos PT, ND, N, QL y DHD de nuestro catálogo.",
+    "url": "#brocas-dth-fondo-de-pozo",
+    "pdf": null,
+    "image": "assets/perforacion/brocas-dth-fondo-de-pozo.png"
+  },
+  {
+    "id": "sistema-de-revestimiento-casing",
+    "name": "Sistema de revestimiento (casing)",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [],
+    "description": "Sistemas de entubación simultánea para perforación en terrenos inestables o con presencia de agua: martillos con zapata de revestimiento, camisas y coronas que permiten introducir la tubería de revestimiento a la vez que se perfora.",
+    "url": "#sistema-de-revestimiento-casing",
+    "pdf": null,
+    "image": "assets/perforacion/sistema-de-revestimiento-casing.png"
+  },
+  {
+    "id": "broca-de-martillo-en-cabeza-top-hammer",
+    "name": "Broca de martillo en cabeza (Top Hammer)",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [],
+    "description": "Brocas y varillaje para perforación con martillo en cabeza (top hammer), incluyendo brocas de botones y manguitos de unión para trabajos de voladura, anclajes y perforación de barrenos de menor diámetro.",
+    "url": "#broca-de-martillo-en-cabeza-top-hammer",
+    "pdf": null,
+    "image": "assets/perforacion/broca-de-martillo-en-cabeza-top-hammer.png"
+  },
+  {
+    "id": "productos-de-circulacion-inversa-rc",
+    "name": "Productos de circulación inversa (RC)",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [],
+    "description": "Sistema completo de perforación por circulación inversa (RC): martillo, varillaje interior/exterior y broca, empleado en sondeos de exploración minera y toma de muestras. Incluye referencias RE004, RE542, PR52 y PR54R.",
+    "url": "#productos-de-circulacion-inversa-rc",
+    "pdf": null,
+    "image": "assets/perforacion/productos-de-circulaci-n-inversa-rc.png"
+  },
+  {
+    "id": "adaptador-y-varilla-de-perforacion",
+    "name": "Adaptador y varilla de perforación",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [],
+    "description": "Adaptadores de rosca y varillaje de perforación DTH en distintas longitudes y roscas de conexión (API REG, BECO, etc.), para acoplar el martillo a la sarta de perforación de cada equipo.",
+    "url": "#adaptador-y-varilla-de-perforacion",
+    "pdf": null,
+    "image": "assets/perforacion/adaptador-y-varilla-de-perforaci-n.png"
+  },
+  {
+    "id": "otras-herramientas-y-piezas-de-perforadora",
+    "name": "Otras herramientas y piezas de perforadora",
+    "category": "Maquinaria de perforación",
+    "categoryId": "perforacion",
+    "specs": [],
+    "description": "Martillos de retroceso (serie BH) y otras herramientas y piezas auxiliares de perforadora: amortiguadores, bancos de prueba, puntas para pilotaje y repuestos, para completar el mantenimiento del equipo de perforación.",
+    "url": "#otras-herramientas-y-piezas-de-perforadora",
+    "pdf": null,
+    "image": "assets/perforacion/otras-herramientas-y-piezas-de-perforadora.png"
+  },
+  {
+    "id": "kaishan-lgcy-18-20-tk",
+    "name": "Compresor KAISHAN LGCY-18/20 TK",
+    "category": "Compresores",
+    "categoryId": "compresores",
+    "specs": [
+      {
+        "label": "Presión",
+        "value": "18 bar"
+      },
+      {
+        "label": "Caudal",
+        "value": "20 m³/min"
+      },
+      {
+        "label": "Motor",
+        "value": "CUMMINS"
+      },
+      {
+        "label": "Potencia",
+        "value": "260 CV"
+      },
+      {
+        "label": "Largo",
+        "value": "280 + 20 cm"
+      },
+      {
+        "label": "Ancho",
+        "value": "152 cm"
+      },
+      {
+        "label": "Alto",
+        "value": "227 cm"
+      },
+      {
+        "label": "Peso",
+        "value": "2.800 kg"
+      },
+      {
+        "label": "Etapas de compresión",
+        "value": "2"
+      },
+      {
+        "label": "Válvula termostática",
+        "value": "HOERBIGER"
+      },
+      {
+        "label": "Servocilindro",
+        "value": "Austria"
+      },
+      {
+        "label": "Separador aire-combustible",
+        "value": "MANN"
+      }
+    ],
+    "description": "Presión y caudal pendientes de confirmar: la tabla y el rotulado de la fotografía presentan valores distintos.",
+    "url": "#kaishan-lgcy-18-20-tk",
+    "pdf": "assets/novedades/kaishan-lgcy-18-20-tk-ficha.pdf",
+    "image": "assets/novedades/kaishan-lgcy-18-20-tk-01.png"
+  },
+  {
+    "id": "kaishan-lgcy-23-23-25-18k",
+    "name": "Compresor KAISHAN LGCY-23/23-25/18K",
+    "category": "Compresores",
+    "categoryId": "compresores",
+    "specs": [
+      {
+        "label": "Caudal",
+        "value": "25-23 m³/min"
+      },
+      {
+        "label": "Presión nominal",
+        "value": "18-23 bar"
+      },
+      {
+        "label": "Peso",
+        "value": "4.500 kg"
+      },
+      {
+        "label": "Dimensiones",
+        "value": "4.080 × 1.950 × 2.895 mm"
+      },
+      {
+        "label": "Neumáticos y cantidad",
+        "value": "7.50-16 × 4"
+      },
+      {
+        "label": "Fabricante del motor",
+        "value": "Cummins"
+      },
+      {
+        "label": "Modelo del motor",
+        "value": "QSL8.9-C325-30"
+      },
+      {
+        "label": "Tipo de motor",
+        "value": "Vertical, en línea, refrigerado por agua"
+      },
+      {
+        "label": "Admisión",
+        "value": "Sobrealimentación con intercooler"
+      },
+      {
+        "label": "Diámetro × carrera × cilindros",
+        "value": "114 × 145 × 6"
+      },
+      {
+        "label": "Cilindrada",
+        "value": "8,9 L"
+      },
+      {
+        "label": "Régimen nominal",
+        "value": "1.800 r/min"
+      },
+      {
+        "label": "Régimen en descarga",
+        "value": "1.400 r/min"
+      },
+      {
+        "label": "Potencia nominal",
+        "value": "242 kW / 325 HP"
+      },
+      {
+        "label": "Capacidad de aceite del motor",
+        "value": "27,6 L"
+      },
+      {
+        "label": "Depósito de combustible",
+        "value": "570 L"
+      },
+      {
+        "label": "Tensión",
+        "value": "24 V"
+      },
+      {
+        "label": "Modelo de unidad compresora",
+        "value": "SKY11G175"
+      },
+      {
+        "label": "Etapas de compresión",
+        "value": "2"
+      },
+      {
+        "label": "Aceite del compresor",
+        "value": "80 L"
+      },
+      {
+        "label": "Válvulas de suministro y cantidad",
+        "value": "G2 × 1; G3/4 × 1"
+      }
+    ],
+    "description": "Datos según tabla facilitada. La placa fotografiada difiere en peso, dimensiones, potencia y régimen; confirmar la configuración ofertada.",
+    "url": "#kaishan-lgcy-23-23-25-18k",
+    "pdf": "assets/novedades/kaishan-lgcy-23-23-25-18k-ficha.pdf",
+    "image": "assets/novedades/kaishan-lgcy-23-23-25-18k-01.jpeg"
+  },
+  {
+    "id": "kaishan-lgcy-25-33",
+    "name": "Compresor KAISHAN LGCY-25/33",
+    "category": "Compresores",
+    "categoryId": "compresores",
+    "specs": [
+      {
+        "label": "Presión",
+        "value": "25 bar"
+      },
+      {
+        "label": "Caudal",
+        "value": "33 m³/min"
+      },
+      {
+        "label": "Motor",
+        "value": "CUMMINS"
+      },
+      {
+        "label": "Potencia",
+        "value": "550 CV"
+      },
+      {
+        "label": "Largo",
+        "value": "410 + 50 cm"
+      },
+      {
+        "label": "Ancho",
+        "value": "216 cm"
+      },
+      {
+        "label": "Alto",
+        "value": "260 cm"
+      },
+      {
+        "label": "Peso",
+        "value": "6.800 kg"
+      },
+      {
+        "label": "Etapas de compresión",
+        "value": "2"
+      },
+      {
+        "label": "Capacidad de aceite",
+        "value": "120 L"
+      },
+      {
+        "label": "Capacidad de combustible",
+        "value": "750 L"
+      },
+      {
+        "label": "Válvula termostática",
+        "value": "HOERBIGER"
+      },
+      {
+        "label": "Servocilindro",
+        "value": "Austria"
+      },
+      {
+        "label": "Separador aire-combustible",
+        "value": "MANN"
+      }
+    ],
+    "description": "",
+    "url": "#kaishan-lgcy-25-33",
+    "pdf": "assets/novedades/kaishan-lgcy-25-33-ficha.pdf",
+    "image": "assets/novedades/kaishan-lgcy-25-33-01.png"
+  },
+  {
+    "id": "perforadora-fyx200",
+    "name": "Perforadora FYX200",
+    "category": "Perforadoras",
+    "categoryId": "perforadoras",
+    "specs": [
+      {
+        "label": "Motor",
+        "value": "CUMMINS 60 kW / 80 CV"
+      },
+      {
+        "label": "Peso",
+        "value": "2.800 kg"
+      },
+      {
+        "label": "Dimensiones",
+        "value": "2,60 × 1,30 × 2 m"
+      },
+      {
+        "label": "Diámetro de perforación",
+        "value": "140-203 mm"
+      },
+      {
+        "label": "Profundidad",
+        "value": "200 m"
+      },
+      {
+        "label": "Barras",
+        "value": "Ø 89 mm; longitudes 1,5 m y 2 m"
+      },
+      {
+        "label": "Cabezal deslizante",
+        "value": "Incluido"
+      },
+      {
+        "label": "Cabestrante",
+        "value": "Incluido"
+      },
+      {
+        "label": "Bomba de agua",
+        "value": "Incluida"
+      },
+      {
+        "label": "Mando a distancia",
+        "value": "Incluido"
+      }
+    ],
+    "description": "",
+    "url": "#perforadora-fyx200",
+    "pdf": "assets/novedades/perforadora-fyx200-ficha.pdf",
+    "image": "assets/novedades/perforadora-fyx200-01.jpeg"
+  }
+]
